@@ -8,7 +8,7 @@ const Sec3 = () => {
           <div className="relative flex md:flex-none flex-col justify-center items-center md:items-start text-center md:text-left">
             <h1 className="relative font-bold text-white md:text-[64px] text-[36px] z-20 ">
               Use as {""} 
-              <span className=" relative z-30 text-wrap">
+              <span className="relative z-30 text-wrap">
                 Extension 
                 </span>
               <Image
@@ -24,7 +24,7 @@ const Sec3 = () => {
               save web pages or take screenshots as notes.
             </p>
             <button className="flex gap-2 items-center font-medium px-[40px] py-[20px]  rounded-lg bg-[#4F9CF9] text-white mt-12 md:mt-10">
-              Let's Go 
+              Let is Go 
               <Image
               alt="vector"
               src="/images/Icon.png"

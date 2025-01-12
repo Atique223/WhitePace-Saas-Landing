@@ -18,7 +18,7 @@ const Sec7 = () => {
                  />
               </h1>
               <p className="text-black mb-4">
-              The app is open source and your notes are saved to an open format, so you'll always have access<br/> to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but<br/> yourself can access them.
+              The app is open source and your notes are saved to an open format, so you all always have access<br/> to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but<br/> yourself can access them.
               </p>
               <button className="flex gap-2 items-center text-white font-medium px-[40px] py-[20px] md:mt-0 mt-10 rounded-lg bg-[#4F9CF9]">
               Read more

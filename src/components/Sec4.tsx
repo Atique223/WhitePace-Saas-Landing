@@ -19,7 +19,7 @@ const Sec4 = () => {
                  />
                   </h1>
                   <p className='font-normal'>Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.</p>
-                  <button className='flex gap-2 items-center font-medium px-[40px] py-[20px] rounded-lg bg-[#4F9CF9] text-white mt-10'>Let's Go  
+                  <button className='flex gap-2 items-center font-medium px-[40px] py-[20px] rounded-lg bg-[#4F9CF9] text-white mt-10'>Let is Go  
                   <Image
                   src='/images/Icon.png'
                   alt='right'
